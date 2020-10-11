@@ -1,0 +1,93 @@
+{
+    "Items": [
+        {
+            "GameId": "1",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.flipray.backflip.master&referrer=utm_source%3Dwasp",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/tigerpet/main/backflip.jpg"
+        },
+        {
+            "GameId": "2",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.family.pet.tiger.home&referrer=utm_source%3Dwasp",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Family-Pet-Tiger-Adventure.jpg"
+        },
+ {
+            "GameId": "3",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.granny.old.house.family&referrer=utm_source%3Dwasp",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/tigerpet/main/grandma.jpg"
+        },
+
+{
+            "GameId": "4",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.tingbing.mouse.family.city.simulator&referrer=utm_source%3Dwasp",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/mouse.jpg"
+        },
+         {
+            "GameId": "5",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.camper.van.holiday.family&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dwasp",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Camper-Van-Holiday-Adventure.jpg"
+        },
+
+         {
+            "GameId": "6",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.zipline.adventure.skyride&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dwasp",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Mega-Zipline-Sky-Adventure.jpg"
+        },
+ {
+            "GameId": "7",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.wasp.nest.sim&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dwasp",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Life-Of-WASP.jpg"
+        },
+{
+            "GameId": "8",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.granny.old.house.family&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dwasp",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Grandmaa-Old-House-Family-Adventure.jpg"
+        },
+        {
+            "GameId": "9",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.pizza.delivery.jet.ski.fun&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dwasp",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Pizza-Delivery-Jet-Ski-Fun.jpg"
+        },
+ 
+         {
+            "GameId": "10",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.step.dad&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dwasp",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Step-Father-New-Family-Fun.jpg"
+        },
+        
+{
+            "GameId": "11",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.robotic.family.happy&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dwasp",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Robotic-Family-Fun-Simulator.jpg"
+        },
+
+{
+            "GameId": "12",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.sister.home.family&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dwasp",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Virtual-Sister-Happy-Home.jpg"
+        }
+    ]
+}
