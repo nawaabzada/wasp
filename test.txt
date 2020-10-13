@@ -1,0 +1,19 @@
+{
+    "Items": [
+        {
+            "GameId": "1",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.wasp.nest.sim",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/tigerpet/main/wasp.jpg"
+        },
+        {
+            "GameId": "2",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.wasp.nest.sim&referrer=utm_source%3Dpettiger",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/tigerpet/main/grandma.jpg"
+        }
+ 
+    ]
+}
